@@ -1,0 +1,4 @@
+repository "Ruby de Adventure@promefire@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
